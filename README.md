@@ -1,6 +1,8 @@
 # D2MC
 Program for Dota 2 match checker with (OpenDota)
-
+---
+---
+---
 # Program plan 
 Використовуючи OpenDota я буду взимати дані з сайту який являється реквестом 
 для того щоб отримувати інформацію про матчі 
